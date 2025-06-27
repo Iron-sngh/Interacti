@@ -37,7 +37,7 @@ Open Git Bash and change the directory to the location where the repository is t
   git init
 ```
 ```shell
-  git clone https://github.com/SanKolisetty/AI-Image-Classifier.git
+  git clone https://github.com/Iron-sngh/Interacti
 ```
 Go to the client directory
 
