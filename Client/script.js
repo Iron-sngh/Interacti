@@ -1,6 +1,6 @@
 // importing images for bot and user
-import bot from './assets/bot.svg'
-import user from './assets/user.svg'
+import bot from './asset/bot.svg'
+import user from './asset/user.svg'
 
 const form = document.querySelector('form');
 const chatcontainer = document.querySelector('#chat_container');
