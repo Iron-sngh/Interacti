@@ -42,7 +42,7 @@ Open Git Bash and change the directory to the location where the repository is t
 Go to the client directory
 
 ```shell
-  cd client
+  cd Client
 ```
 Run the following command to install the necessary requirements
 
